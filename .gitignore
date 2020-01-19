@@ -1,7 +1,7 @@
 # Adding config.py file.
 config.py
 
-# Adding large csv file(s)
+# Adding large csv files
 *.csv
 
 # Byte-compiled / optimized / DLL files
